@@ -56,3 +56,24 @@ https://dictionary.cambridge.org/us/media/english/us_pron/m/mor/more_/more.mp3
 all done
 This tool is good, too: https://www.howtopronounce.com/all-done
 <audio src="https://en-audio.howtopronounce.com/1630151108612a21c40f572.mp3"></audio>
+
+
+top
+https://dictionary.cambridge.org/us/media/english/us_pron/t/top/top__/top.mp3
+
+curl -O https://dictionary.cambridge.org/us/media/english/us_pron/t/top/top__/top.mp3
+
+
+middle
+https://dictionary.cambridge.org/us/media/english/us_pron/m/mid/middl/middle.mp3
+
+bottom
+https://dictionary.cambridge.org/us/media/english/us_pron/b/bot/botto/bottom.mp3
+
+play
+https://dictionary.cambridge.org/us/media/english/us_pron/p/pla/play_/play.mp3
+
+go
+(x) https://dictionary.cambridge.org/us/media/english/us_pron/g/go/go___/go.mp3  - NOPE
+https://dictionary.cambridge.org/us/media/english/us_pron/g/go_/go___/go.mp3  - WORKED
+
