@@ -77,3 +77,12 @@ go
 (x) https://dictionary.cambridge.org/us/media/english/us_pron/g/go/go___/go.mp3  - NOPE
 https://dictionary.cambridge.org/us/media/english/us_pron/g/go_/go___/go.mp3  - WORKED
 
+stop
+https://dictionary.cambridge.org/us/media/english/us_pron/s/sto/stop_/stop.mp3
+
+
+## How to convert mp3 to wav
+
+use ffmpeg (https://askubuntu.com/questions/919788/convert-mp3-file-to-wav-using-the-command-line)
+
+ffmpeg -i input.mp3 output.wav
