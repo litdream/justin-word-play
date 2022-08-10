@@ -3,7 +3,7 @@ import arcade
 
 class Mp3Driver(arcade.Window):
     def __init__(self):
-        super().__init__(800, 600, "mp3 test")
+        super().__init__(300, 200, "mp3 test")
         self.mpset1: list = None
         self.mpset2: list = None
         self.curset: list = None
